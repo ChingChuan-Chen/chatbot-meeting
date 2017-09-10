@@ -1,0 +1,25 @@
+討論重點
+1. Python讀書重點
+   *a. 基本資料型態：int, str, float, dict, list
+   b. numpy: array => For deep learning
+   *c. pandas: Series, DataFrame => Next Week詳細討論一下 by 慶全 (20min)
+2. Next week chatbot經驗分享 by 瑋哲 (40min)
+3. Regular Expression (正規表示式) => regexone.com (下下次可以提)
+4. the functionality of chatbot
+   a. 大多數人的觀後心得 => 最難的, low priority
+   *b. 列出附近電影院上映的電影
+   *c. 列出電影院的場次
+   *d. 近期已上映、即將上映的電影以及相關介紹
+   *e. 查詢電影相關資訊，EX:卡司、電影中英文名稱等
+   *f. 輸入演員，給出最近的作品
+5. 呈現面
+   a. 平台：LINE
+   b. 伺服器：有免費的，heroku
+6. 下次討論時間
+   a. 下周日晚上十點
+
+7. GitHub
+   瑋哲：weizhe0422
+   睦昂：
+
+
